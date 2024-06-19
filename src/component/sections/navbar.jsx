@@ -17,8 +17,8 @@ const Navbar = (props) => {
             </a>
             </NavbarBrand>
             <Menu>Home</Menu>
-            <Menu>Home</Menu>
-            <Menu>Home</Menu>
+            <Menu>Discover</Menu>
+            <Menu>Award List</Menu>
         </div>
     </div>
     </div>

@@ -1,13 +1,13 @@
 import './App.css'
+import HeroSection from './component/fragments/heroSection'
 import Navbar from './component/fragments/navbar'
 
 function App() {
 
   return (
     <>
-      <div className="flex justify-center text-2xl">
+        <HeroSection />
         <Navbar />
-      </div>
     </>
   )
 }
